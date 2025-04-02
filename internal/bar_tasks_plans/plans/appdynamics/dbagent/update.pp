@@ -1,4 +1,4 @@
-plan bar_tasks_plans::update (
+plan bar_tasks_plans::appdynamics::dbagent::update (
   TargetSpec $targets
 ) {
 

@@ -1,4 +1,4 @@
-plan bar_tasks_plans::restart (
+plan bar_tasks_plans::appdynamics::dbagent::restart (
   TargetSpec $targets
 ) {
 

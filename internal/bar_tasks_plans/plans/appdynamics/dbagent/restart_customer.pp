@@ -1,4 +1,4 @@
-plan bar_tasks_plans::restart_customer (
+plan bar_tasks_plans::appdynamics::dbagent::restart_customer (
   TargetSpec $targets
 ) {
 
